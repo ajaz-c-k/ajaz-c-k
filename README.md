@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Full-stack web applications and automation systems using React.js, Node.js, Express, MySQL, and Python, along with IoT projects using Arduino and ESP32.<br><br>I’m looking to collaborate on Backend development projects, automation tools, IoT-based systems, and real-world problem-solving applications.<br><br>I’m looking for help with Scalable backend architecture, cloud deployment, and advanced system design.<br><br>I’m currently learning Data Structures & Algorithms, system design principles, and improving production-level backend skills.<br><br>Ask me about Python scripting, React apps, IoT integration, and building end-to-end projects from scratch.<br><br>Fun fact : I’ve built a smart home automation system, developed an AI-based chat app, created a 2D Python game, and won multiple tech competitions.
+🔭 Currently working on:<br>Full-stack web applications and automation systems using React.js, Node.js, Express, MySQL, and Python, along with IoT projects built with Arduino and ESP32.<br><br>🤝 Open to collaborate on:<br>Backend development projects, automation tools, IoT-based systems, and real-world problem-solving applications.<br><br>🌱 Currently learning:<br>Data Structures and Algorithms, system design principles, and production-level backend architecture.<br><br>💬 Ask me about:<br>Python scripting, React applications, IoT integration, automation with Selenium, and building end-to-end projects from scratch.<br><br>⚡ Fun fact:<br>I have built a smart home automation system, developed an AI-based chat application, created a 2D Python game, and won multiple technical competitions.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I’m currently working on Full-stack web applications and automation systems us
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajaz-c-k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajaz-c-k&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ajaz-c-k&icon=0&color=0)](https://visitcount.itsvg.in)
